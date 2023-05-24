@@ -1,2 +1,3 @@
 # pausetrigger
-mod that makes the player stop
+
+This is where she makes a mod.
